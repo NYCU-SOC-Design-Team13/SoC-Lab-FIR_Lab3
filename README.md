@@ -1,5 +1,6 @@
 # SoC-Lab-FIR
-SoC_Lab3
+#### FIR - Verilog implementation
+
 
 ## Interface
 - data_in stream (Xn)
